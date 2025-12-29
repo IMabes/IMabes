@@ -9,12 +9,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: IMabes
           outputs: |
             dist/github-contribution-grid-snake.svg
+
       - name: Push snake
         uses: crazy-max/ghaction-github-pages@v3
         with:
