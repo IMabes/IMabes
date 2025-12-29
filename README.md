@@ -34,6 +34,27 @@
 - Git & GitHub
 - Temel Blockchain / Solidity
 
+  <h1 align="center">IMabes</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=460&lines=Cyber+Security+Enthusiast;CTF+Player;Web+%26+Python+Security;Building+Security+Tools" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IMabes/IMabes/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IMabes&theme=github-compact" />
+</p>
+
+
 ---
 
 ## 🚀 Öne Çıkan Projeler
