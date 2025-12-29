@@ -34,17 +34,19 @@ Blockchain & Smart Contract güvenliği temelleri
 ---
 
 ## 📊 GitHub İstatistiklerim
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IMabes&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imabes&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IMabes&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=imabes&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMabes&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabes&layout=compact&theme=dark&hide_border=true" />
 </p>
+
 
 ---
 
